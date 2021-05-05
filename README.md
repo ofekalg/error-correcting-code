@@ -1,5 +1,6 @@
 # error-correcting-code
 An implementation of the Reed-Solomon's error correcting code, written as part of an academic course I took during my computer science bachelor degree.
+I implemented an encoding algorithm and list decoding algorithm for Reed Solomon Codes.
 This implementation is based on the book of Madhu Sudan, chapters: 5, 11 and 12. https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf 
 
 # Introduction
